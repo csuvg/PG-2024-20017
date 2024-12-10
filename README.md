@@ -37,7 +37,7 @@ npm install --legacy-peer-deps
 Con Expo CLI: Ejecuta:
 
 ```bash
-npx expo start
+npm run start
 ```
 
 Esto abrirá una página en tu navegador con un código QR que puedes escanear utilizando la aplicación Expo Go en tu dispositivo móvil.
