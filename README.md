@@ -23,7 +23,7 @@ git clone https://github.com/csuvg/PG-2024-20017.git
 Luego, navega al directorio del proyecto con:
 
 ```bash
-cd nombre-del-repositorio
+cd PG-2024-20017/src
 ```
 
 3. Instalar Dependencias: Dentro del directorio del proyecto, instala las dependencias necesarias ejecutando:
